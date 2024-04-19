@@ -1,5 +1,5 @@
 # 100.exercicios.algoritmos
-Repositório com 100 exercícios de Algoritmos em Portugol.
+Repositório com 100 exercícios de Algoritmos/Lógica de programação em Portugol.
 
 Lista de Exercícios: Esta em PDF no repositório, podendo ser visuzalizada ou baixada
 
